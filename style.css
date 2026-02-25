@@ -87,3 +87,12 @@ footer {
     border-top: 1px solid #ddd;
     font-size: 0.9rem;
 }
+
+footer .footer-nav {
+    margin-bottom: 8px;
+}
+
+footer .footer-nav a {
+    margin: 0 6px;
+    font-size: 0.9rem;
+}
